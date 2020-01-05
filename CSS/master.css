@@ -1,0 +1,244 @@
+body{width:100%;
+  min-width:600px;
+  max-width:2000px;
+  margin:0px;
+width:100%;
+  height:1000px;
+background-color:#888181;
+
+
+
+
+}
+
+.op{
+
+margin:0px;
+
+  height:181px;
+  background-color: #020203;
+  color: #0CE2D3;
+  font-size:20px;
+  font-family:Agency FB;
+
+
+
+
+
+
+}
+#ka{
+
+  position: relative;
+  left: 200px;
+  top: -100px;
+}
+.op h1 {
+  position: relative;
+  display:inline;
+top:75px;
+text-align:left;
+}
+.op h2{
+  text-align:center;
+  font-size:35px;
+  font-family:Agency FB;
+
+}
+.fondo{
+display: block;
+  height:550px;
+  background: url(../MEDIA/asdass.PNG) ;
+    text-align:center;
+    display: flex;
+       align-items: center;
+}
+.op div{
+  text-align:right;
+  position:relative;
+  top:-280px;
+}
+
+.menu2 li{
+    display: inline-block;
+
+}
+.menu2 a{
+    padding: 20px;
+
+    color:  #0CE2D3;
+    text-decoration: none;
+    display: block;
+      font-family:Agency FB;
+
+}
+  .menu2 a:hover;{
+    color:white;
+  }
+  #ahg{
+    text-align:center;
+background-color: transparent;
+    height:500px;
+    width:85%;
+    position:relative;
+    left:120px;
+  }
+  .derecha{
+
+    background-color:white;
+    height:500px;
+    width: 325px;
+    float:right;
+    color: black;
+    font-size:20px;
+    font-family:Agency FB;
+ opacity: 0.8;
+
+  }
+
+  .derecha h1{
+    text-aling:center;
+    color:black;
+  }
+  .derecha h3{
+    color:black;
+position: relative;
+top:-50px;
+
+  }
+
+  #contraseña{
+    padding:18px;
+    margin:10px;
+    display:block;
+    font-size:20px;
+    position:relative;
+      left:20px;
+      top:-50px;
+    background-color:white;
+
+  }
+  #celular{
+    padding:18px;
+    margin:10px;
+    display:block;
+    font-size:20px;
+    position:relative;
+    left:20px;
+    top:-50px;
+    background-color:white;
+
+  }
+  .derecha h2{
+    position:relative;
+    left:-60px;
+    top:-50px;
+
+  }
+  .derecha h4{
+    position:relative;
+    left:-70px;
+    top:-50px;
+
+  }
+  .derecha a{
+    padding:18px;
+    margin:10px;
+    display:block;
+    font-size: 30px;
+text-decoration:none;
+color:black;
+font-family:Agency FB;
+position:relative;
+top:-50px;
+
+    background-color:#38D147;
+
+  }
+  .izquierda{
+    background-color:white;
+    height:500px;
+    width:490px;
+    float: left;
+     opacity: 0.8;
+     color: black;
+     font-size:20px;
+     font-family:Agency FB;
+
+  }
+  .izquierda h1{
+    text-aling:center;
+    color:black;  }
+
+
+    .izquierda pre{
+      text-aling:left;
+      color:gray;  }
+      #ff{
+        height:30%;
+            background-color:#0A9087;
+            clear:both;
+      }
+      .icon{
+        width: 100px;
+        height:100px;
+        background: red;
+        display: inline-block;
+        margin: 10px;
+      }
+      .p{
+        display: block;
+          height:200px;
+
+          display: flex;
+             align-items: center;
+             background-color:black;
+ font-family:Agency FB;
+      }
+      #all{
+
+
+    background-color: #888181;
+        height:180px;
+        width:85%;
+        position:relative;
+        left:120px;
+        color:white;
+        border-radius: 20px 20px 20px 20px;
+
+
+      }
+      #all2{
+        text-aling:left;
+      }
+
+      #ya{
+        text-decoration:none;
+         font-family:Agency FB;
+         font-size: 30px;
+           text-aling:left;
+      }
+      #kaka{
+position:relative;
+top:-50px;
+left:-40px;
+        border-radius:50%;
+       float: right;
+
+
+      }
+      footer{
+          display:inline;
+        background-color: #888181;
+            height:180px;
+            width:100%;
+
+      }
+      #me{
+        font-family:Agency FB;
+        font-size: 30px;
+        color: white;
+          text-align:left;
+
+
+      }
